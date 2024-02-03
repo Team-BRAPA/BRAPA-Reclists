@@ -1,6 +1,6 @@
 # BRAPA Reclists
 
-[UTAU](https://github.com/Team-BRAPA/BRAPA-Reclists/main?tab=readme-ov-file#utau)
+[UTAU](https://github.com/Team-BRAPA/BRAPA-Reclists/tree/main?tab=readme-ov-file#utau)
 
 ## UTAU
 
